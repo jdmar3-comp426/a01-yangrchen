@@ -1,0 +1,23 @@
+{
+  "name": "a01-yangrchen",
+  "version": "1.0.0",
+  "description": "A01 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx browser-sync start -sw"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmar3-comp426/a01-yangrchen.git"
+  },
+  "author": "Yang Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a01-yangrchen/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a01-yangrchen#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.5"
+  }
+}

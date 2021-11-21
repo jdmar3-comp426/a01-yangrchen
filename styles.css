@@ -1,0 +1,58 @@
+html, body {
+	width: 100%;
+}
+
+p {
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+nav {
+	position: sticky;
+	top: 0;
+}
+
+.wrapper {
+	display: flex;
+	height: 200vh;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	border: 5px solid #000;
+}
+
+.wrapper div {
+	padding: 3em;
+	background-color: #F7F8F9;
+}
+
+.element {
+	color: #8c7efc;
+}
+
+a {
+	font-size: 1rem;
+}
+
+#button {
+	background-color: #49C9F9;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+}
+
+#button:hover {
+	background-color: #49C9E2;
+}
+
+.test-1 {
+	font-size: 8rem;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.test-2 {
+	color: #432ef1;
+}
+.test-3 {
+	color: #2c71fa;
+}
